@@ -1,0 +1,13 @@
+{
+   "compilerOptions": {
+   "moduleResolution": "NodeNext",
+   "outDir": "./_dist",
+     "module": "NodeNext",
+     "target": "ES2021",
+     "strict": true
+   },
+   "include": [
+     "./**/*"
+   ]
+ }
+ 
